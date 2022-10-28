@@ -1,0 +1,15 @@
+{
+    "name": "kansoldev/slack-task-hng",
+    "autoload": {
+        "psr-4": {
+            "Kansoldev\\SlackTaskHng\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oyinkansola",
+            "email": "yahayaoyinkansola@gmail.com"
+        }
+    ],
+    "require": {}
+}
